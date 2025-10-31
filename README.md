@@ -1,11 +1,58 @@
-lá, eu sou o Vitor 🐙
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=82B8D9&height=120&section=header"/>
 
-![Vitor4442 GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor4442&show_icons=true&theme=dracula)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=82B8D9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Welinton;I'm+from+Guaratinguetá,+SP;I'm+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Eu sou apaixonado por tecnologia desde os 2 anos de idade, e essa paixão me impulsionou para a programação. Sempre procurei resolver problemas ao invés de reclamá-los, e é isso que me motiva a ir além em cada desafio.
+- 🌱 I'm a Full Stack Developer  
+<div align="center">
 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (5º semestre)
+<div align="center">  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WelintonJunior&show_icons=true&count_private=true&hide_border=true&title_color=010D00&icon_color=010326&text_color=000000&bg_color=%23A0DBF2" alt="Welinton's GitHub stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelintonJunior&layout=compact&hide_border=true&title_color=010D00&text_color=000000&bg_color=%23A0DBF2" />
+</div>
+<br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WelintonJunior&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-🌱 Onde quero chegar: Estou sempre em busca de novos desafios e aprendizados, com o objetivo de me tornar um desenvolvedor cada vez mais completo e especializado. Quero resolver problemas reais através da tecnologia.
+<div> 
+  <a href = "mailto:wrkwelinton@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=A0DBF2" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/welinton-junior-314bb2265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-🧠 O que me motiva: Resolver problemas, aprender novas tecnologias e criar soluções que façam a diferença no dia a dia das pessoas. Além disso, minha curiosidade constante me impulsiona a melhorar sempre.
+  <h2> Technologies I use and study: </h2>
+
+<img align="center" alt="ze-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="ze-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="ze-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+<img align="center" alt="ze-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img align="center" alt="ze-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="ze-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img align="center" alt="ze-PowerBI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg">
+<img align="center" alt="ze-Excel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+<img align="center" alt="ze-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+<img align="center" alt="ze-API" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+</div>
+
+<div style="display: inline_block"><br>
+  <h2> What is my IDE? </h2>
+  <img align="center" alt="ze-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="ze-jetbrains" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg">
+</div>
+
+<div align="center"><br>
+  <table>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WelintonJunior&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WelintonJunior&theme=github_dark"/></td></tr>
+  </table>
+  <table>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WelintonJunior&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WelintonJunior&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WelintonJunior&theme=github_dark"/></td></tr>
+  </table>
+</div>
+
+</div>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=82B8D9&height=120&section=footer"/>
+
+**Desenvolvedor Full Stack | Java & PostgreSQL | Spring Boot | React | Git | GitHub | Power BI | Excel | Firebase | API RESTful**
