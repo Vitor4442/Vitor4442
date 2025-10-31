@@ -6,12 +6,12 @@
 <div align="center">
 
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vitor4442&show_icons=true&count_private=true&hide_border=true&title_color=010D00&icon_color=010326&text_color=000000&bg_color=%23A0DBF2" alt="Vitor4442 GitHub stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor4442&layout=compact&hide_border=true&title_color=010D00&text_color=000000&bg_color=%23A0DBF2" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoseVitor018&show_icons=true&count_private=true&hide_border=true&title_color=010D00&icon_color=010326&text_color=000000&bg_color=%23A0DBF2" alt="JoseVitor018 GitHub stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitor018&layout=compact&hide_border=true&title_color=010D00&text_color=000000&bg_color=%23A0DBF2" />
 </div>
 <br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vitor4442&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JoseVitor018&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div> 
@@ -37,13 +37,13 @@
 
 <div align="center"><br>
   <table>
-    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitor4442&theme=github_dark"/></td><td>
-    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vitor4442&theme=github_dark"/></td></tr>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseVitor018&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoseVitor018&theme=github_dark"/></td></tr>
   </table>
   <table>
-    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vitor4442&theme=github_dark"/></td><td>
-    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vitor4442&theme=github_dark"/></td><td>
-    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vitor4442&theme=github_dark"/></td></tr>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoseVitor018&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseVitor018&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseVitor018&theme=github_dark"/></td></tr>
   </table>
 </div>
 
